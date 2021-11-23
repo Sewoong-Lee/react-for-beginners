@@ -1,3 +1,9 @@
+# 리액트JS를 공부하는 페이지 입니다!
+
+https://Sewoong-Lee.github.io/react-for-beginners
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
