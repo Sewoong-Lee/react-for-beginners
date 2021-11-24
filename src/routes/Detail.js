@@ -2,7 +2,9 @@ import { useEffect, useState } from "react";
 import {useParams} from "react-router-dom";
 
 function Deatil() {
+    
     const {id} = useParams();
+    console.log("qq");
     const [loading, setLoading] = useState(true);
     const [movie_details, setMovie_details] = useState([]);
     const getMovie = async () =>{
